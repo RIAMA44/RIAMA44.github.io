@@ -1,0 +1,117 @@
+html { 
+	height: 100%; 
+	margin:0;
+}
+
+body {
+	height: 100%;
+	font-family: "arial",serif;
+	margin:0;
+    background: #F0F3F5; 
+}
+
+#introduction {
+	width: 68%;
+	margin-left:32%;
+}
+
+.coordonnees{
+	font-weight: bold;
+	margin-bottom: 0px;
+	/*background-color: red;*/
+}
+
+.test{
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+}
+
+.titre-experience {
+	margin:0px;
+}
+
+
+.bloc {
+	display: inline-block;
+}
+
+h1 {
+	width: 500px;
+	margin-right: 75px;
+}
+.titre_souligner {
+
+	border-bottom: 1px solid white;
+	border-bottom-style: inset;
+}
+
+.text-introduction {
+	margin-right: 75px;
+	width: 500px;
+}
+
+.titre-camieg {
+	margin-left:0px;
+	margin-top: 16px;
+	margin-right:0px;
+	margin-bottom:0px;
+}
+
+
+#colonne1{
+	position:absolute;
+	left:10px;
+	top:10px;
+	width: 30%; 
+	background: #4B5D67; 
+	color: white 
+	}
+
+.Expérience{
+	width:20%;
+	height:200px;
+	background-color: green;
+}
+
+#infocamieg {
+	width:25%;
+	height:200px;
+	background-color: blue;
+}
+
+
+.bloccamieg {
+	width:68%;
+	margin-left: 32%;
+	height:200px;
+	background-color: pink;
+	justify-content:left;
+	display:inline-flex;
+}	
+
+.bloccamieg2{
+	height: 200px;
+	width:55%;
+	background-color: yellow;
+}	
+
+#infocamieg {
+	width:25%;
+	height:200px;
+	background-color: blue;
+
+	}	
+
+.blocwestotel{
+	height: 200px;
+	margin: 0%;
+	width:55%;
+	background-color: yellow;
+}	
+#infocamieg {
+	width:25%;
+	height:200px;
+	background-color: blue;
+}
+
