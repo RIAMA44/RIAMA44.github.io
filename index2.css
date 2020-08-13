@@ -30,15 +30,14 @@ body {
 	margin-right: 500px;
 	width: 500px;
 	top:10px;
-	/*background: red;*/
+
 
 }
 .titre {
 	width:50%;
 	margin-left: 21%;
 	height:200px;
-	/*background-color: purple;
-*/	justify-content:left;
+	justify-content:left;
 	display:inline-flex
 }	
 #introduction {
@@ -92,14 +91,14 @@ h1 {
 .Expérience{
 	width:10%;
 	height:200px;
-	/*background-color: green;*/
+
 
 }
 
 #infocamieg {
 	width:10%;
 	height:200px;
-	/*background-color: blue;*/
+
 }
 
 
@@ -107,7 +106,6 @@ h1 {
 	width:50%;
 	margin-left: 21%;
 	height:200px;
-	/*background-color: pink;*/
 	justify-content:left;
 	display:inline-flex;
 }	
@@ -115,13 +113,13 @@ h1 {
 .bloccamieg2{
 	height: 200px;
 	width:70%;
-	/*background-color: yellow;*/
+	
 }	
 
 #infocamieg {
 	width:25%;
 	height:200px;
-	/*background-color: blue;*/
+	
 
 	}	
 
@@ -129,12 +127,11 @@ h1 {
 	height: 200px;
 	margin: 0px;
 	width: 65%;
-	/*background-color: yellow;*/
+	
 
 }	
 #infocamieg {
 	width:25%;
 	height:200px;
-	/*background-color: blue;*/
-}
+	}
 
