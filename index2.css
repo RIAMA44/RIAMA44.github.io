@@ -25,6 +25,7 @@ body {
 
 .titre-experience {
 	margin:0px;
+
 }
 .text-introduction {
 	margin-right: 500px;
@@ -83,9 +84,12 @@ h1 {
 	position:absolute;
 	height: 1800px;
 	top: 10px;
-	width: 500px; 
+	width: 450px; 
 	background: #4B5D67; 
 	color: white;
+	margin-left:5px;
+	padding-left: 20px;
+	
 	}
 
 .Expérience{
