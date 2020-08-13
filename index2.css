@@ -1,6 +1,7 @@
 html { 
-	height: 100%; 
+	height: 3508px; 
 	margin:0;
+	width: 2480px;
 }
 
 body {
@@ -10,15 +11,10 @@ body {
     background: #F0F3F5; 
 }
 
-#introduction {
-	width: 68%;
-	margin-left:32%;
-}
-
 .coordonnees{
 	font-weight: bold;
 	margin-bottom: 0px;
-	/*background-color: red;*/
+
 }
 
 .test{
@@ -30,25 +26,52 @@ body {
 .titre-experience {
 	margin:0px;
 }
+.text-introduction {
+	margin-right: 500px;
+	width: 500px;
+	top:10px;
+	/*background: red;*/
 
+}
+.titre {
+	width:50%;
+	margin-left: 21%;
+	height:200px;
+	/*background-color: purple;
+*/	justify-content:left;
+	display:inline-flex
+}	
+#introduction {
+	max-height: 100%;
+	top:10px;
+	width: 2000px;
+	margin-left:0%;
+}
 
 .bloc {
 	display: inline-block;
+
+	
+}
+.bloc1 {
+	display: inline-block;
+	top:10px;
+	float right: 10px;
+	position: absolute;
+	
 }
 
 h1 {
 	width: 500px;
 	margin-right: 75px;
+	top:10px;
 }
 .titre_souligner {
 
 	border-bottom: 1px solid white;
 	border-bottom-style: inset;
-}
-
-.text-introduction {
-	margin-right: 75px;
-	width: 500px;
+	width: 400px;
+	margin left: 50px;
 }
 
 .titre-camieg {
@@ -57,61 +80,61 @@ h1 {
 	margin-right:0px;
 	margin-bottom:0px;
 }
-
-
 #colonne1{
 	position:absolute;
-	left:10px;
-	top:10px;
-	width: 30%; 
+	height: 1800px;
+	top: 10px;
+	width: 500px; 
 	background: #4B5D67; 
-	color: white 
+	color: white;
 	}
 
 .Expérience{
-	width:20%;
+	width:10%;
 	height:200px;
-	background-color: green;
+	/*background-color: green;*/
+
 }
 
 #infocamieg {
-	width:25%;
+	width:10%;
 	height:200px;
-	background-color: blue;
+	/*background-color: blue;*/
 }
 
 
 .bloccamieg {
-	width:68%;
-	margin-left: 32%;
+	width:50%;
+	margin-left: 21%;
 	height:200px;
-	background-color: pink;
+	/*background-color: pink;*/
 	justify-content:left;
 	display:inline-flex;
 }	
 
 .bloccamieg2{
 	height: 200px;
-	width:55%;
-	background-color: yellow;
+	width:70%;
+	/*background-color: yellow;*/
 }	
 
 #infocamieg {
 	width:25%;
 	height:200px;
-	background-color: blue;
+	/*background-color: blue;*/
 
 	}	
 
 .blocwestotel{
 	height: 200px;
-	margin: 0%;
-	width:55%;
-	background-color: yellow;
+	margin: 0px;
+	width: 65%;
+	/*background-color: yellow;*/
+
 }	
 #infocamieg {
 	width:25%;
 	height:200px;
-	background-color: blue;
+	/*background-color: blue;*/
 }
 
